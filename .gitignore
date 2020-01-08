@@ -2,14 +2,14 @@
 __pycache__
 
 # images
-images
+images/
 
 # data
-data
+data/
 
 # charts
-charts
+charts/
 
 # docs build
-docs/_build
-Makefile
+docs/_build/
+**/Makefile
