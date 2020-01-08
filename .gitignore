@@ -1,0 +1,15 @@
+# .gitignore
+__pycache__
+
+# images
+images
+
+# data
+data
+
+# charts
+charts
+
+# docs build
+docs/_build
+Makefile
