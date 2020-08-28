@@ -7,7 +7,7 @@ tree_generation is a Python library for implementing a tree-like structure.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install tree_generation.
 
 ```bash
-pip install tree_generation
+pip install -e .
 ```
 
 ## Usage
