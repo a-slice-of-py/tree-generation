@@ -25,4 +25,4 @@ print(f'Path to bottom-left node: {path}')
 
 ## Authors
 
-* **Silvio Lugaro** - *Advanced Analytics team, Iren S.p.A.*
+* **Silvio Lugaro**
